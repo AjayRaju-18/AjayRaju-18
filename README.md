@@ -12,9 +12,7 @@
 
 ## 🔧 About Me
 
-<table>
-<tr>
-<td width="60%">
+<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
 ```python
 class AjayRajuMJ:
@@ -43,12 +41,7 @@ me = AjayRajuMJ()
 print(me.motto())
 ```
 
-</td>
-<td width="40%">
-<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="100%"/>
-</td>
-</tr>
-</table>
+<br clear="right"/>
 
 ---
 
