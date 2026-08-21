@@ -14,7 +14,7 @@
 
 ## 🔧 About Me
 
-```python
+python
 class AjayRajuMJ:
     def __init__(self):
         self.name = "Ajay Raju MJ"
@@ -39,7 +39,7 @@ class AjayRajuMJ:
 
 me = AjayRajuMJ()
 print(me.motto())
-```
+
 
 ---
 
