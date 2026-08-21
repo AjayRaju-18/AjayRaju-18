@@ -10,11 +10,13 @@
 
 ---
 
-<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
-
 ## 🔧 About Me
 
-python
+<table>
+<tr>
+<td width="60%">
+
+```python
 class AjayRajuMJ:
     def __init__(self):
         self.name = "Ajay Raju MJ"
@@ -39,7 +41,14 @@ class AjayRajuMJ:
 
 me = AjayRajuMJ()
 print(me.motto())
+```
 
+</td>
+<td width="40%">
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="100%"/>
+</td>
+</tr>
+</table>
 
 ---
 
